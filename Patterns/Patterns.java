@@ -75,11 +75,12 @@ public class Patterns {
 
     static void pattern5(int n){
         /*
-        12345
-        1234
-        123
-        12
-        1
+        *****
+        ****
+        ***
+        **
+        *
+
         */
 
         for (int i=0;i<n;i++){
@@ -88,7 +89,23 @@ public class Patterns {
             }
             System.out.println();
         }
+    }
 
+    static void pattern6(int n){
+        /*
+
+        12345
+        1234
+        123
+        12
+        1
+         */
+        for(int i=1;i<=n;i++){
+            for(int j=n;j>=i;j--){
+                System.out.print(n-j+1+" ");
+            }
+            System.out.println();
+        }
     }
 
 
@@ -99,6 +116,7 @@ public class Patterns {
         pattern3(n);
         pattern4(n);
         pattern5(n);
+        pattern6(n);
 
     }
 
