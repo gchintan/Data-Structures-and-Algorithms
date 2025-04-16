@@ -1,4 +1,4 @@
-package Patterns;
+package Basics.Patterns;
 
 public class Patterns {
 
@@ -75,13 +75,13 @@ public class Patterns {
 
     static void pattern5(int n){
         /*
-        *****
-        ****
-        ***
-        **
-        *
+         *****
+         ****
+         ***
+         **
+         *
 
-        */
+         */
 
         for (int i=0;i<n;i++){
             for(int j=n;j>i;j--){
@@ -110,9 +110,9 @@ public class Patterns {
 
     static void pattern7(int n){
         /*
-            *
-           ***
-          *****
+         *
+         ***
+         *****
          *******
 
          */
@@ -133,10 +133,10 @@ public class Patterns {
 
     static void pattern8(int n){
         /*
-        *******
+         *******
          *****
-          ***
-           *
+         ***
+         *
 
          */
         for(int i=0;i<n;i++){
