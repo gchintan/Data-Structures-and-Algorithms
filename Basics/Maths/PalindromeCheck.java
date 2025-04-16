@@ -8,10 +8,7 @@ public class PalindromeCheck {
             rev=rev*10+(n%10);
             n=n/10;
         }
-        if(temp==rev){
-            return true;
-        }
-        return false;
+        return temp == rev;
     }
 
     public static void main(String[] args){
