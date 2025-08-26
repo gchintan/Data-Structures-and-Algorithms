@@ -15,6 +15,7 @@ public class ReverseNumber {
     public static void main(String[] args){
         int n=12345;
         System.out.print("Reverse of number "+ n + " is :"+reverseNum(n));
+
     }
 
 }
