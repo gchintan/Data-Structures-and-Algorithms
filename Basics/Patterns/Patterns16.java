@@ -1,6 +1,6 @@
 package Basics.Patterns;
 
-public class Pattern16 {
+public class Patterns16 {
         // Function to print pattern16
         static void pattern16(int n) {
             // Outer loop for the number of rows.

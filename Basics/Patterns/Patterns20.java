@@ -11,7 +11,7 @@ package Basics.Patterns;
  **      **
  *        *
  */
-public class Pattern20 {
+public class Patterns20 {
         // Function to print pattern20
         static void pattern20(int n) {
             // Initialising the spaces.

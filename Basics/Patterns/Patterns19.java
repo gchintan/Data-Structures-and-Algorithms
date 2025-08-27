@@ -12,7 +12,7 @@ package Basics.Patterns;
  ****  ****
  **********
  */
-public class Pattern19 {
+public class Patterns19 {
         static void pattern19(int n) {
             // Print the upper half pattern
 

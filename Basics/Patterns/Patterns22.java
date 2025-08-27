@@ -11,7 +11,7 @@ package Basics.Patterns;
 5 4 4 4 4 4 4 4 5
 5 5 5 5 5 5 5 5 5
  */
-public class Pattern22 {
+public class Patterns22 {
 
         // Function to print pattern22
         static void pattern22(int n) {

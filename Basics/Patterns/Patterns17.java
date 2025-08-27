@@ -7,7 +7,7 @@ package Basics.Patterns;
  ABCDCBA
 ABCDEDCBA
  */
-public class Pattern17 {
+public class Patterns17 {
 
         // Function to print pattern17
         static void pattern17(int n) {

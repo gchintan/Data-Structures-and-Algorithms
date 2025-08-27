@@ -7,7 +7,7 @@ package Basics.Patterns;
 1234  4321
 1234554321
  */
-public class Pattern12 {
+public class Patterns12 {
         // Function to print pattern12
         static void pattern12(int n) {
             // Initial no. of spaces in row 1.

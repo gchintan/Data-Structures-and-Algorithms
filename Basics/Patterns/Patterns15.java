@@ -7,7 +7,7 @@ ABC
 AB
 A
  */
-public class Pattern15 {
+public class Patterns15 {
         // Function to print pattern15
        static void pattern15(int n) {
             // Outer loop for the number of rows.

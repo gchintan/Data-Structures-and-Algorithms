@@ -7,7 +7,7 @@ package Basics.Patterns;
 7 8 9 10
 11 12 13 14 15
  */
-public class Pattern13 {
+public class Patterns13 {
         // Function to print pattern13
         static void pattern13(int n) {
             // starting the number

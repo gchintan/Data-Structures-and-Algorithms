@@ -8,7 +8,7 @@ package Basics.Patterns;
 0 1 0 1
 1 0 1 0 1
  */
-public class Pattern11 {
+public class Patterns11 {
         // Function to print pattern11
        static void pattern11(int n) {
            // First row starts by printing a single 1.

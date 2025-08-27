@@ -6,7 +6,7 @@ C D E
 B C D E
 A B C D E
  */
-public class Pattern18 {
+public class Patterns18 {
         // Function to print pattern18
         static void pattern18(int n) {
             // Outer loop for the number of rows.

@@ -6,7 +6,7 @@ package Basics.Patterns;
  *   *
  *****
  */
-public class Pattern21 {
+public class Patterns21 {
         // Function to print pattern21
         static void pattern21(int n) {
             // Outer loop for the rows.
